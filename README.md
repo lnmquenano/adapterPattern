@@ -19,7 +19,8 @@ You are developing an application that helps users manage and control various el
 <ul>
 <li>LaptopAdapter - An adapter for plugging a laptop into a standard power outlet. It adapts the Laptop to the PowerOutlet interface, translating plugIn() to charge().</li><br>
 <li>RefrigeratorAdapter - An adapter for plugging a refrigerator into a standard power outlet. It adapts the Refrigerator to the PowerOutlet interface, translating plugIn() to startCooling().</li><br>
-<li>SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().</li><br><br>
+<li>SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().</li><br>
 </ul>
+
 <h3>UML Class Diagram:</h3>
 <img width="2672" height="1637" alt="POAS_UML" src="https://github.com/user-attachments/assets/ff7b35a1-2847-402a-86a9-f9d9e72ee05b" />
